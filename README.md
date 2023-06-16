@@ -1,5 +1,6 @@
 # Introduction to Linear Regression on Google Cloud
 
+This project aims to predict the house price in different areas of the USA using a dataset that contains various features such as income, population, number of rooms, etc. The project involves data exploration, data preprocessing, feature engineering, model selection, model evaluation and model deployment. The project uses Python and several libraries such as pandas, numpy, seaborn, and scikit-learn. The project demonstrates how to apply machine learning techniques to a real-world problem
 
 Introduction:
 
